@@ -4,8 +4,8 @@ apply plugin: 'com.github.dcendents.android-maven'
 group='com.github.m0d'
 
 ext {
-    PUBLISH_VERSION = '2.0.3-m0d'
-    SUPPORT_LIBRARY_VERSION = '25.1.0'
+    PUBLISH_VERSION = '2.0.3-25.1.1'
+    SUPPORT_LIBRARY_VERSION = '25.1.1'
     BUILD_TOOLS = "25.0.1"
     TARGET_SDK = 25
 }
